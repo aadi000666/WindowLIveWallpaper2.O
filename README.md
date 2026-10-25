@@ -70,3 +70,17 @@ The executable is created at `dist\LiveWall.exe`. Qt Multimedia and the required
 ## License
 
 LiveWall is distributed under the MIT License; see [LICENSE](LICENSE).
+
+# 🎥 LiveWall v1.0.0
+
+A lightweight, open-source Windows utility to set video files (.mp4) as dynamic desktop wallpapers.
+
+## ✨ Features
+- 🎬 **Custom Video Wallpapers:** Set any MP4 video as your background.
+- ⚡ **Auto-Pause Mode:** Automatically pauses video when full-screen apps/games run to save CPU/RAM.
+- 🪟 **System Tray:** Runs quietly in the background near the system clock.
+
+## 🚀 Quick Download
+1. Go to **[Releases](../../releases)**.
+2. Download `LiveWall.exe`.
+3. Double-click to run!
